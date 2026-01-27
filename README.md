@@ -7,7 +7,7 @@ Girl Code Decoder is a command-line application created to decode the numerical 
 
 <br>
 
-![IMG_9784](https://github.com/user-attachments/assets/4128de35-ad32-4a61-92ef-0b1c0f2d6ce8)
+![IMG_9784](https://github.com/user-attachments/assets/bba8fd21-90e2-4fa5-b589-f88483e02380)
 
 <br>
 
