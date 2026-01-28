@@ -13,7 +13,7 @@ public class Main {
 
             System.out.println("What word would you like to decode?");
         
-            String word = scanner.nextLine();
+            String word = scanner.nextLine().toLowerCase();
 
             for(char letter : word.toCharArray()){
 
