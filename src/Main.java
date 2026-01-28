@@ -7,7 +7,8 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         String exit = "";
 
-        System.out.println("Welcome to the Girl Code Decoder! Inspired by Silent Hill f");
+        System.out.println(
+            "Welcome to the Girl Code Decoder!\n" + "Inspired by Silent Hill f");
 
         while(!exit.equals("Q")){
 
