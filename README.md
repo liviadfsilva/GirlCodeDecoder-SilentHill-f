@@ -4,7 +4,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Enabled-blue?style=for-the-badge)
 
 ## About 🎌
-Girl Code Decoder is a command-line application created to decode the numerical cipher known as 'girl code' from the game Silent Hill f, used by many students as their locker combinations.
+Girl Code Decoder is a command-line application inspired by the numerical cipher known as 'girl code' from the game Silent Hill f, used by many students as their locker combinations.
 
 <br>
 
